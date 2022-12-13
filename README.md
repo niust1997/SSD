@@ -1,2 +1,2 @@
 # SSD
-The codes for SSD methods
+The codes for SSD methods.
