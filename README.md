@@ -1,8 +1,8 @@
 # SSD
 The codes for SSD methods.
-1. separation guided speaker diarization (SGSD) [1]
-2. iterative separation-based speaker diarization (ISSD) [2]
-3. quality-aware dynamic mask (QDM) generation 
+1. Separation guided speaker diarization (SGSD) [1]
+2. Iterative separation-based speaker diarization (ISSD) [2]
+3. Quality-aware dynamic mask (QDM) generation 
 
 [1] S.-T. Niu, J. Du, L. Sun, and C.-H. Lee, “Separation guided speaker diarization in realistic mismatched
 conditions,” arXiv preprint arXiv:2107.02357, 2021.
