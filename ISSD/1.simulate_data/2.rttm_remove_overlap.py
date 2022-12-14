@@ -60,7 +60,7 @@ for file_id in tqdm(file_ids):
             for k in range(num_speaker):
                 i = 0
                 spk = spk_list[k]
-                # pdb.set_trace()
+                # pdb.set_trace() 
                 while i < len(session_label[session][spk]):
                     if session_label[session][spk][i] == 1 and session_label[session][spk][i] != 100:
                         start = i
