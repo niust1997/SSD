@@ -277,7 +277,7 @@ class System(pl.LightningModule):
         elif loss <= -10:
             prob = 4e-6*((-loss-10)**5) + 0.1 # -10 ~ -19.9 ---> 0.1 - 0.6
         else:                               
-            prob = 0
+            prob = 0 
         return prob
         
     def loss_2_prob(self, loss): 
