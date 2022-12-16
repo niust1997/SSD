@@ -5,7 +5,7 @@ from typing import Callable, Optional
 from torch.optim.optimizer import Optimizer
 import pdb
 from ..utils import flatten_dict
-import random as random
+import random as random 
 
 
 class System(pl.LightningModule):
