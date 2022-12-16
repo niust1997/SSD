@@ -109,7 +109,7 @@ print(tb)
     
     
 
-# perl md-eval-v21.pl -afc -c 0  -r   ./oracle_rttm/DH_DEV_0028.rttm    -s  ./best_fisher_revised_directSep/DH_DEV_0028.rttm
+# perl md-eval-v21.pl -afc -c 0  -r   ./oracle_rttm/DH_DEV_0028.rttm    -s  ./best_fisher_revised_directSep/DH_DEV_0028.rttm 
 
 
 
