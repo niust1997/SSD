@@ -74,7 +74,7 @@ for file_id in tqdm(file_ids):
                         end = start + durance
                         #print("{} {}".format(start, end))
                         OUT.write("SPEAKER {} 1 {:.2f} {:.2f} <NA> <NA> {} <NA> <NA>\n".format(session, start / fs, durance / fs, str(k + 1)))
-                    i += 1
+                    i += 1 
         
         
         
