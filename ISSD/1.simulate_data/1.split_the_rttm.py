@@ -19,4 +19,4 @@ for file_id in fisher_dict.keys():
     f = open( out_path,'w')
     for line in fisher_dict[file_id]:
         f.write(line)
-    f.close() 
+    f.close()  
