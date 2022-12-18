@@ -137,7 +137,7 @@ for id in tqdm(ft_list):
             sf.write( wav_out_path.replace('.wav','_sep2.wav'), est_sources_np[1,:]*ratio, 8000)
                 
             if COPY_ORI:
-                os.system('cp {} {}'.format(wav_path, eval_save_dir))
+                os.system('cp {} {}'.format(wav_path, eval_save_dir)) 
                 
     
         
