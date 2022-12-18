@@ -2,7 +2,7 @@
 # built vox train data for TS-VAD
 # 16kHz: 16000 sample per second
 # overlap_length (second): overlap_frame/16000
-# wav_param_list: nchannels, sampwidth, framerate, nframes,
+# wav_param_list: nchannels, sampwidth, framerate, nframes
 #---------------------------------------------
 
 import os
